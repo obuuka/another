@@ -1,6 +1,28 @@
 .box1{
     color:black
 }
+.box1 h1{
+     letter-spacing: 1em
+    ;
+     text-decoration: underline;
+     font weight:1800;
+
+}
 .container{
     background-color:darkgrey;
+}
+.list1 li:nth-child(){
+    background-color:black;
+}
+.box2{
+    border:5px dotted #cccccc;
+    border-radius: 35px;
+}
+.box3{
+    border:5px dotted #cccccc;
+    border-radius: 35px;
+}
+.box4{
+    border:5px dotted #cccccc;
+    border-radius: 35px;
 }
